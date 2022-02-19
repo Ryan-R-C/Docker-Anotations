@@ -22,3 +22,17 @@ One single word:
 #### Namespaces
 
 >It guarantees the isolation between docker's application and OS
+
+##### Kinds:
+
+- PID:
+    - Provides process isolations running in  a Container
+- NET
+    - Provides interfaces isolations in a Network
+- IPC
+    - Provides 
+- MNT
+    - Provides isolated communication between processes and shared memory
+- UTS
+    - Provides a kernel isolation. Acts like it were another host
+
