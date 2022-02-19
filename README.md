@@ -13,3 +13,9 @@ It is better than a lot of Virtual Machines? SURE! it is much cheaper and simple
 ### Why so light?
 
 A OS send a certaing amount of system resources to containers
+
+
+### How does it guarantee the isolation ?
+
+One single word:
+
