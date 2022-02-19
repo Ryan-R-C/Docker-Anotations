@@ -36,3 +36,7 @@ One single word:
 - UTS
     - Provides a kernel isolation. Acts like it were another host
 
+
+### How it works without need to install a new OS?
+Thanks to UTS namespace the system containers has a piece of the Kernel father, but properly isolated
+
