@@ -19,3 +19,6 @@ A OS send a certaing amount of system resources to containers
 
 One single word:
 
+#### Namespaces
+
+>It guarantees the isolation between docker's application and OS
