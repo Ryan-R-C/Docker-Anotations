@@ -40,3 +40,7 @@ One single word:
 ### How it works without need to install a new OS?
 Thanks to UTS namespace the system containers has a piece of the Kernel father, but properly isolated
 
+
+### How does the OS divide the resources?
+It is provided by:
+
