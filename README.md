@@ -9,3 +9,7 @@ It creates a kind of "virtual machine", but it is better!
 
 In a nutshell it is a layer above the Operating System that holds a specif application...
 It is better than a lot of Virtual Machines? SURE! it is much cheaper and simple to maintain!
+
+### Why so light?
+
+A OS send a certaing amount of system resources to containers
