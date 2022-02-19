@@ -44,3 +44,5 @@ Thanks to UTS namespace the system containers has a piece of the Kernel father, 
 ### How does the OS divide the resources?
 It is provided by:
 
+#### Cgroups
+A process controller, it can be defined manually and also automatically for each container
