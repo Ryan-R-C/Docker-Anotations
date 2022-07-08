@@ -15,10 +15,10 @@ Isso torna a manutenção mais simples e barata.
 ### O que é um Continer?
 
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
     <img 
-    src="https://miro.medium.com/max/1400/0*44tYQBGpceB8sxjf.png"   height="200px">
-    <div style="align-self: center;">
+    src="https://miro.medium.com/max/1400/0*44tYQBGpceB8sxjf.png"   width="45%">
+    <div style="align-self: center; width: 50%;">
         <p>Primeiramente Imagem é um conjunto de camadas de instruções. É um arquivo comparado a uma snapshot em uma máquina virtual, um template.
         </p>
         <p>
